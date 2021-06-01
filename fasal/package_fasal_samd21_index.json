@@ -1,0 +1,42 @@
+{
+	"packages": [{
+		"name": "Fasal-SAMD21E18",
+		"maintainer": "abhaysbharadwaj",
+		"websiteURL": "https://sastry-labs.github.io",
+		"email": "abhaysbharadwaj@gmail.com",
+		"platforms": [{
+			"name": "Fasal-SAMD21E18",
+			"architecture": "samd",
+			"version": "1.0.0",
+			"category": "Internal",
+			"url": "https://sastry-labs.github.io/fasal/release/fasal-samd21e18.zip",
+			"archiveFileName": "fasal-samd21e18.zip",
+			"checksum": "SHA-256:3f67e9ac45e0fe3b7bbc6fb17d53fd5763519587771e21099ce072e109378706",
+			"size": "4694564",
+			"help": {
+				"online": "https://sastry-labs.github.io"
+			},
+			"boards": [{
+				"name": "Fasal-SAMD21E18"
+			}],
+			"toolsDependencies": [{
+				"packager": "arduino",
+				"name": "arm-none-eabi-gcc",
+				"version": "4.8.3-2014q1"
+			}, {
+				"packager": "arduino",
+				"name": "bossac",
+				"version": "1.6.1-arduino"
+			}, {
+				"packager": "arduino",
+				"name": "openocd",
+				"version": "0.9.0-arduino"
+			}, {
+				"packager": "arduino",
+				"name": "CMSIS",
+				"version": "4.0.0-atmel"
+			}]
+		}],
+		"tools": []
+	}]
+}
