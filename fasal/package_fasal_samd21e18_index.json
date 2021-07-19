@@ -1,23 +1,23 @@
 {
 	"packages": [{
-		"name": "Fasal-SAMD21E17",
+		"name": "Fasal-SAMD21E18",
 		"maintainer": "abhaysbharadwaj",
 		"websiteURL": "https://sastry-labs.github.io",
 		"email": "abhaysbharadwaj@gmail.com",
 		"platforms": [{
-			"name": "Fasal-SAMD21E17",
+			"name": "Fasal-SAMD21E18",
 			"architecture": "samd",
 			"version": "1.0.0",
 			"category": "Internal",
-			"url": "https://sastry-labs.github.io/fasal/release/fasal-samd21e17-1.0.0.zip",
-			"archiveFileName": "fasal-samd21e17-1.0.0.zip",
-			"checksum": "SHA-256:da03469dc58fcf09d30817c1ab014569d1b88aec28583df9acf3f70a1f17ac95",
-			"size": "2416844",
+			"url": "https://sastry-labs.github.io/fasal/release/ArduinoCore-fasal-samd21e18-1.2.0.zip",
+			"archiveFileName": "ArduinoCore-fasal-samd21e18-1.2.0.zip",
+			"checksum": "SHA-256:ab32027322d03e2681c019b1ccd259b4e9cad1fe45793f099735f455d45ea193",
+			"size": "2415656",
 			"help": {
 				"online": "https://sastry-labs.github.io"
 			},
 			"boards": [{
-				"name": "Fasal-SAMD21E17"
+				"name": "Fasal-SAMD21E18"
 			}],
 			"toolsDependencies": [{
 				"packager": "arduino",
