@@ -4,8 +4,7 @@
 		"maintainer": "abhaysbharadwaj",
 		"websiteURL": "https://fasal.co",
 		"email": "abhay.bharadwaj@wolkus.com",
-		"platforms": [
-			{
+		"platforms": [{
 				"name": "Fasal-STM32F103CB",
 				"architecture": "STM32F1",
 				"version": "2019.11.26",
@@ -20,8 +19,7 @@
 				"boards": [{
 					"name": "Fasal-STM32F103CB"
 				}],
-				"toolsDependencies": [
-					{
+				"toolsDependencies": [{
 						 "version" : "2019.11.26",
 						 "name" : "stm32tools",
 						 "packager" : "stm32duino"
@@ -30,10 +28,8 @@
 						 "version" : "4.8.3-2014q1",
 						 "name" : "arm-none-eabi-gcc",
 						 "packager" : "arduino"
-					}
-				]
-			}
-		],
+					}]
+			}],
 		"tools": []
 	}]
 }
