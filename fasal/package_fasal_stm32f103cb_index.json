@@ -1,0 +1,39 @@
+{
+	"packages": [{
+		"name": "Fasal-STM32F103CB",
+		"maintainer": "abhaysbharadwaj",
+		"websiteURL": "https://fasal.co",
+		"email": "abhay.bharadwaj@wolkus.com",
+		"platforms": [
+			{
+				"name": "Fasal-STM32F103CB",
+				"architecture": "STM32F1",
+				"version": "2019.11.26",
+				"category": "Internal",
+				"url": "https://sastry-labs.github.io/fasal/release/Fasal-STM32F103CB-2019.11.26.zip",
+				"archiveFileName": "Fasal-STM32F103CB-2019.11.26.zip",
+				"checksum": "SHA-256:e798fff659c8bf315c9c8ef786658d3a00276e23730f60318055fca0fdc14221",
+				"size": "14217941",
+				"help": {
+					"online": "https://sastry-labs.github.io"
+				},
+				"boards": [{
+					"name": "Fasal-STM32F103CB"
+				}],
+				"toolsDependencies": [
+					{
+						 "version" : "2019.11.26",
+						 "name" : "stm32tools",
+						 "packager" : "stm32duino"
+					},
+					{
+						 "version" : "4.8.3-2014q1",
+						 "name" : "arm-none-eabi-gcc",
+						 "packager" : "arduino"
+					}
+				]
+			}
+		],
+		"tools": []
+	}]
+}
