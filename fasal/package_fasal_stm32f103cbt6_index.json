@@ -39,8 +39,6 @@
 			],
 			"tools": [
 				{
-					"version": "2019.11.26",
-					"name": "stm32tools",
 					"systems": [
 						{
 							"checksum": "SHA-256:e1038b9bf362c43c7009441cc0ee0cd3f8a371f709a99e0d1e097b85f7d12d88",
@@ -49,7 +47,9 @@
 							"host": "i686-mingw32",
 							"size": 10494284
 						}
-					]
+					],
+					"version": "2019.11.26",
+					"name": "stm32tools",
 				}
 			]
 		}
