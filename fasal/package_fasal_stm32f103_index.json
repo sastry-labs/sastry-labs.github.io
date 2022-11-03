@@ -3,12 +3,14 @@
 		{
 			"name": "Fasal-STM32F103CB",
 			"maintainer": "abhaysbharadwaj",
-			"websiteURL": "?",
-			"email": "?",
-			"platforms": [{
-					"name": "Fasal-STM32F103",
+			"websiteURL": "https://fasal.co",
+			"email": "abhay.bharadwaj@wolkus.com",
+			"platforms": [
+				{
+					"name": "Fasal-STM32F103CB",
 					"architecture": "STM32F1",
 					"version": "2019.11.26",
+					"category": "Internal",
 					"url": "https://sastry-labs.github.io/fasal/release/Fasal-STM32F103CB-2019.11.26.zip",
 					"archiveFileName": "Fasal-STM32F103CB-2019.11.26.zip",
 					"checksum": "SHA-256:e798fff659c8bf315c9c8ef786658d3a00276e23730f60318055fca0fdc14221",
@@ -35,7 +37,21 @@
 					]
 				}
 			],
-			"tools": []
+			"tools": [
+				{
+					"version": "2019.11.26",
+					"name": "stm32tools",
+					"systems": [
+						{
+							"checksum": "SHA-256:96aeb842f0627a63a6d0ed14bba8bca354cacef70d721f16272e901c2d4b0fa0",
+							"url": "http://dan.drown.org/stm32duino/tools_win-2020.1.17.zip",
+							"archiveFileName": "tools_win-2020.1.17.zip",
+							"host": "i686-mingw32",
+							"size": 10487028
+						}
+					]
+				}
+			]
 		}
 	]
 }
