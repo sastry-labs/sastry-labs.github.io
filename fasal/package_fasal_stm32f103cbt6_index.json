@@ -50,6 +50,34 @@
 							"archiveFileName": "stm32duino-tools-win-2019.11.26.zip",
 							"checksum": "SHA-256:e1038b9bf362c43c7009441cc0ee0cd3f8a371f709a99e0d1e097b85f7d12d88",
 							"size": 10494284
+						},
+						{
+							 "checksum" : "SHA-256:f712d231da08f6ede3dda3e1e3ccb9111994ad7bf86a307328acda2544c127a9",
+							 "url" : "https://dan.drown.org/stm32duino/tools_macosx-2022.9.26.tar.gz",
+							 "archiveFileName" : "tools_macosx-2022.9.26.tar.gz",
+							 "size" : 827666,
+							 "host" : "x86_64-apple-darwin"
+						},
+						{
+							 "checksum" : "SHA-256:f712d231da08f6ede3dda3e1e3ccb9111994ad7bf86a307328acda2544c127a9",
+							 "url" : "https://dan.drown.org/stm32duino/tools_macosx-2022.9.26.tar.gz",
+							 "archiveFileName" : "tools_macosx-2022.9.26.tar.gz",
+							 "host" : "i386-apple-darwin",
+							 "size" : 827666
+						},
+						{
+							 "checksum" : "SHA-256:165c921764ff0451eb4a7875ec2e898c09979c80683fd4c92202f70f33ad4a7e",
+							 "url" : "https://dan.drown.org/stm32duino/tools_linux64-2022.9.26.tar.gz",
+							 "archiveFileName" : "tools_linux64-2022.9.26.tar.gz",
+							 "size" : 966819,
+							 "host" : "x86_64-pc-linux-gnu"
+						},
+						{
+							 "checksum" : "SHA-256:3771c1f052e4988ecd6bbd6df111a6cd745cf13ca7bbaf55322e89e5c822013f",
+							 "url" : "https://dan.drown.org/stm32duino/tools_linux-2022.9.26.tar.gz",
+							 "archiveFileName" : "tools_linux-2022.9.26.tar.gz",
+							 "host" : "i686-pc-linux-gnu",
+							 "size" : 913208
 						}
 					]
 				}
